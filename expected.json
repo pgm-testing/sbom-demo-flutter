@@ -1,0 +1,18 @@
+{
+  "repository": "pgm-testing/sbom-demo-flutter",
+  "action_revision": "ed68e4cc4c42a25a88a12f8ac26f520986851ec5",
+  "probes": [
+    {
+      "name": "flutter_stellar_sdk",
+      "purl": "pkg:pub/stellar_flutter_sdk",
+      "version": "3.10.0",
+      "repo": "pkg:github/Soneso/stellar_flutter_sdk"
+    },
+    {
+      "name": "http control",
+      "purl": "pkg:pub/http",
+      "version": "1.6.0",
+      "repo": null
+    }
+  ]
+}

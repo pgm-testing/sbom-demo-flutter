@@ -1,0 +1,12 @@
+name: sbom_demo_flutter
+publish_to: none
+environment:
+  sdk: ">=3.8.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  stellar_flutter_sdk: 3.10.0
+  http: 1.6.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
